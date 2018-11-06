@@ -12,5 +12,10 @@
             "email": "524656859@qq.com"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "autoload": {
+    "psr-4": {
+        "marlon888\\": "src/"
+    }
+}
 }
