@@ -1,0 +1,21 @@
+{
+    "name": "marlon888/ai_tencent",
+    "description": "腾讯AI开放平台sdk(php)",
+    "type": "composer-plugin",
+    "require": {
+        "php": "5.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "marlon888",
+            "email": "524656859@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "marlon888\\": "src/"
+        }
+    }
+}
